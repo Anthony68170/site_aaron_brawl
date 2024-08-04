@@ -55,6 +55,7 @@ main {
 
 h2 {
     text-align: center;
+    color: rgb(13, 230, 56);
 }
 
 .president-section, .tips-section, .profiles-section, .members-section, .discord-section {
@@ -78,7 +79,7 @@ h2 {
 .strategy-button {
     padding: 10px 20px;
     margin: 5px;
-    background-color: #ff7f50;
+    background-color: #0b0bc0;
     color: white;
     border: none;
     border-radius: 5px;
@@ -94,7 +95,7 @@ h2 {
 }
 
 .strategy-button:hover {
-    background-color: #ff6347;
+    background-color: #e91ec0;
 }
 
 .player-highlight {
@@ -108,9 +109,10 @@ h2 {
     width: 200px;
     margin: 10px;
     padding: 10px;
-    background-color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.6);
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+    color: black;
 }
 
 .player-card img {
@@ -144,11 +146,12 @@ h2 {
 
 .discord-section {
     text-align: center;
+    color: white;
 }
 
 .discord-link {
     display: inline-block;
-    background-color: #7289da;
+    background-color: rgba(233, 14, 178, 0.6);
     padding: 10px 20px;
     border-radius: 5px;
     text-decoration: none;
@@ -160,6 +163,7 @@ h2 {
     height: auto;
     vertical-align: middle;
     margin-right: 10px;
+
 }
 
 .footer-content {
