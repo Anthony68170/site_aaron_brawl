@@ -164,3 +164,20 @@ h2 {
     height: auto;
     margin-bottom: 10px;
 }
+
+.member-card {
+    text-align: center;
+    margin: 10px;
+}
+
+.member-card img {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.member-card p {
+    margin-top: 5px;
+    font-size: 14px;
+    color: white;
+}
